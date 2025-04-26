@@ -88,3 +88,6 @@ BURJXCRYPTOCLI/
 ├── ... (other project files like package.json, tsconfig.json, etc.)
 ```
 
+![Simulator Screenshot - iPhone 15 - 2025-04-26 at 17 11 23](https://github.com/user-attachments/assets/e4499289-ce30-4a8c-9dd3-84d8898daeab)
+
+![Simulator Screenshot - iPhone 15 - 2025-04-26 at 17 11 48](https://github.com/user-attachments/assets/7ea403db-47c7-4b6c-9f2b-a273189ee3a0)
