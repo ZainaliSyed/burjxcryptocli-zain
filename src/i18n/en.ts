@@ -1,0 +1,15 @@
+export default {
+    authTitle: 'Use Biometric to log in?',
+    authButton: 'Set Up',
+    biometricUnavailableTitle: 'Biometric Unavailable',
+    biometricUnavailableMessage: 'Your device does not support biometric authentication. Please proceed without it.',
+    biometricNotSetupTitle: 'Biometric Not Setup',
+    biometricNotSetupMessage: 'Biometric authentication is not set up on your device. Please configure it in your device settings.',
+    authenticationFailedTitle: 'Authentication Failed',
+    authenticationFailedMessage: 'Biometric authentication failed. Please try again.',
+    authenticationErrorTitle: 'Authentication Error',
+    authenticationErrorMessage: 'An error occurred during biometric authentication.',
+    biometricNotAvailable: 'Biometric authentication not available.',
+    ok: 'OK',
+    notAvailable: 'N/A',
+};

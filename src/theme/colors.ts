@@ -1,0 +1,16 @@
+export default {
+    black: '#000000',
+    white: '#FFFFFF',
+    primary: '#CDFF00',
+    tabbar_Inactive: 'rgba(255, 255, 255, 0.5)',
+    TextPrimaryWhite: 'rgba(255, 255, 255, 1)',
+    secondary: '#6C757D',
+    accent: '#FF9800',
+    textPrimary: '#E0E0E0',
+    textSecondary: '#9E9E9E',
+    background: '#121212',
+    cardBackground: '#1E1E1E',
+    border: '#333333',
+    green: '#4CAF50',
+    red: '#F44336',
+};
